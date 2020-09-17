@@ -1,0 +1,13 @@
+{
+    "name": "CmsMobile",
+    "alias": "cmsmobile",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CmsMobile\\Providers\\CmsMobileServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
